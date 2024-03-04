@@ -50,6 +50,7 @@ a lightweight process - a process can have multiple running threads. A thread do
 
 ![[Screenshot from 2024-01-28 22-59-29 1.png]]
 
+
 #### SOCKETS
 
 A socket is a software endpoint that allows processes to send and receive data through the network using protocols like TCP or UDP. 
